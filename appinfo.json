@@ -1,0 +1,11 @@
+{
+  "id": "webapp.photocall",
+  "version": "1.0.0",
+  "vendor": "peyoker",
+  "type": "web",
+  "main": "index.html",
+  "title": "Photocall TV",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png",
+  "uiRevision": 2
+}
